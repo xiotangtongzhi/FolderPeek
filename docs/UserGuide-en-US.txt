@@ -1,0 +1,24 @@
+Folder Peek v1.5
+
+Author: TTang
+Email: lim822190@gamil.com
+Work email: tzw822190@nwafu.edu.cn
+
+Requires Windows 10 / 11 and .NET Framework 4.8 or later.
+Installs for the current user without administrator rights. Uninstall from Windows Settings > Apps.
+Chinese and English packages install the same application. Installing the other package replaces the UI language.
+
+Open a folder in File Explorer. Folder Peek follows the frontmost File Explorer window.
+Use Choose folder or type a full folder path and press Enter for manual navigation.
+Each folder initially shows 5 entries. Show more adds another 5.
+Change the page size from the context menu. Depth controls automatic expansion.
+Middle-drag to pan; wheel to scroll; Shift+wheel to scroll horizontally; Ctrl+wheel to zoom.
+Double-click a folder to focus it; Ctrl+click to open or locate it in File Explorer.
+Use the sun/moon button to switch between day and night mode.
+The triangle below the path hides the title, toolbar and path while keeping the tree visible. Click again to restore.
+Drag the blank area beside the triangle to move the window when the header is hidden. Alt+F4 closes; F5 refreshes.
+
+Settings: %LOCALAPPDATA%\FolderPeek\settings-v1.5.xml.
+Uninstall retains preferences and never deletes browsed files. No directory data is collected or uploaded. No automatic startup is configured.
+This release is not code-signed. Windows may show an unknown publisher prompt.
+Some native folder-picker text follows the Windows display language.

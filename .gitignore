@@ -1,0 +1,14 @@
+**/obj/
+**/bin/
+build/
+dist/
+.vs/
+*.user
+*.suo
+**/node_modules/
+**/__pycache__/
+**/out/
+**/audio/raw.wav
+**/audio/voice-only.wav
+**/audio/score.wav
+**/audio/narration.wav

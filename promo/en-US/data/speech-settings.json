@@ -1,0 +1,11 @@
+{
+  "language": "en-US",
+  "voice": "en-US-JennyNeural",
+  "rate": "-3%",
+  "pitch": "+0Hz",
+  "method": "continuous full-script synthesis; no per-sentence generation or joining",
+  "provider": "Microsoft Edge neural TTS via edge-tts",
+  "spokenText": "Folders within folders. Finding one file means jumping back and forth. Folder Peek unfolds the structure of your folders, right beside your work. It follows the frontmost File Explorer folder window. Switch from project assets to deliverables, and the tree updates with you. From the root to subfolders and individual files, each branch reveals a relationship. Colors distinguish folder levels. Each entry gets its own line. Even with sixty files, you see the total and just five entries to begin with. Choose Show more to reveal five more at a time, or change the page size. Double-click to focus a folder. Control-click to open or locate it in File Explorer. Middle-drag to pan, use the wheel to scroll, and Control plus the mouse wheel to zoom. Choose a folder, go up, refresh, and decide how many levels to expand. Keep the window on top beside your work, or pause automatic following at any time. Clear by day, calm by night. Tap the sun or moon to switch themes. Sim Sun for Chinese, Times New Roman for English, with square controls and clear depth colors. Tap the triangle below the path to hide the header and give the space to the tree. An installer of about one point nine megabytes, available in Chinese and English. This clarity comes from three steps: identify the window, read the folder, draw the branches. It checks window order periodically, looking for visible, non-minimized File Explorer windows. Windows shell interfaces provide the active folder path instead of guessing from the title. With the path identified, it enumerates that directory and counts its folders and files. It keeps the entries needed for display and expands to the chosen depth, without traversing every hidden branch. Folder reads run in the background. When you switch quickly, stale results are discarded. Finally, hierarchy becomes coordinates and lines, with panning and zooming applied to the canvas. It all happens locally, without uploading your directory or opening file contents. Folder Peek. Less searching. More seeing.",
+  "wordEvents": 333,
+  "coverage": "100% normalized spoken text"
+}

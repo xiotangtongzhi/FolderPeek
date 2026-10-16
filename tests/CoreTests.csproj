@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net8.0</TargetFramework><ImplicitUsings>disable</ImplicitUsings><Nullable>disable</Nullable><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup>
+  <ItemGroup><Compile Include="Program.cs"/><Compile Include="../src/MapSnapshot.cs" Link="MapSnapshot.cs"/><Compile Include="../src/DirectoryPager.cs" Link="DirectoryPager.cs"/><Compile Include="../src/PathRules.cs" Link="PathRules.cs"/><Compile Include="../src/AppSettings.cs" Link="AppSettings.cs"/></ItemGroup>
+  <ItemGroup><Compile Include="../src/L10n.cs" Link="L10n.cs"/></ItemGroup>
+</Project>
+
